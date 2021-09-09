@@ -1,0 +1,59 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ú¦Ì‰
+k
+java:S1104"UMake headerURL a static final constant or non-public and provide accessors if needed.(ş”ê
+m
+java:S1104	"RMake header a static final constant or non-public and provide accessors if needed.(Û“Ôşÿÿÿÿ
+l
+java:S1104"QMake upUrl a static final constant or non-public and provide accessors if needed.(×ôòïøÿÿÿÿ
+n
+java:S1104"SMake downUrl a static final constant or non-public and provide accessors if needed.(õ—òÿÿÿÿÿ
+n
+java:S1104"SMake leftUrl a static final constant or non-public and provide accessors if needed.(·‡Ï«üÿÿÿÿ
+i
+java:S1104"TMake rightUrl a static final constant or non-public and provide accessors if needed.(Û”ì`
+i
+java:S1104"NMake up a static final constant or non-public and provide accessors if needed.(’Ñ–±ûÿÿÿÿ
+k
+java:S1104"PMake down a static final constant or non-public and provide accessors if needed.(øÈ¥ûÿÿÿÿ
+f
+java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(ÉÎ‚
+l
+java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(ÎÂü„şÿÿÿÿ
+n
+java:S1104"SMake bodyUrl a static final constant or non-public and provide accessors if needed.(âıÁşÿÿÿÿ
+m
+java:S1104"PMake body a static final constant or non-public and provide accessors if needed.(çØœ›8Ë³›¼/
+u
+java:S1104"SMake foodUrl a static final constant or non-public and provide accessors if needed.(·èÀÆıÿÿÿÿ8ßÅµ›¼/
+m
+java:S1104"PMake food a static final constant or non-public and provide accessors if needed.(ûûòÎ8Ùğµ›¼/
+E
+java:S1444"/Make this "public static headerURL" field final(ş”ê
+G
+java:S1444	",Make this "public static header" field final(Û“Ôşÿÿÿÿ
+F
+java:S1444"+Make this "public static upUrl" field final(×ôòïøÿÿÿÿ
+H
+java:S1444"-Make this "public static downUrl" field final(õ—òÿÿÿÿÿ
+H
+java:S1444"-Make this "public static leftUrl" field final(·‡Ï«üÿÿÿÿ
+C
+java:S1444".Make this "public static rightUrl" field final(Û”ì`
+C
+java:S1444"(Make this "public static up" field final(’Ñ–±ûÿÿÿÿ
+E
+java:S1444"*Make this "public static down" field final(øÈ¥ûÿÿÿÿ
+@
+java:S1444"*Make this "public static left" field final(ÉÎ‚
+F
+java:S1444"+Make this "public static right" field final(ÎÂü„şÿÿÿÿ
+H
+java:S1444"-Make this "public static bodyUrl" field final(âıÁşÿÿÿÿ
+G
+java:S1444"*Make this "public static body" field final(çØœ›8Ë³›¼/
+O
+java:S1444"-Make this "public static foodUrl" field final(·èÀÆıÿÿÿÿ8àÅµ›¼/
+G
+java:S1444"*Make this "public static food" field final(ûûòÎ8Ûğµ›¼/
