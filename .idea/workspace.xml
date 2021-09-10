@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28202f35-c1ba-49d4-b79e-f42b1024f376" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/snake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/artifacts/snake_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/sonarlint/issuestore/0/2/027fa97100f68652cbfb8e911426f87be4ca82b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/sonarlint/issuestore/1/4/14afc82d96a18c57b21833c0d5c55c98fb5eff9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/sonarlint/issuestore/7/7/778bdc7f8eb699b5fe548b2b35ff8123315400af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/artifacts/snake_jar/snake.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/raxcl/snake/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/raxcl/snake/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/raxcl/snake/StartGames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/out/production/snake/statics/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/snake.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/src/META-INF/MANIFEST.MF" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environment\Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../environment/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xw9DJvwDCCGJJlhzJsk9RFGAWo" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StartGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="raxcl.snake.StartGames" />
+      <module name="snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="raxcl.snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28202f35-c1ba-49d4-b79e-f42b1024f376" name="Changes" comment="" />
+      <created>1631255163098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631255163098</updated>
+      <workItem from="1631255165414" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
